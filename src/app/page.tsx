@@ -97,13 +97,13 @@ function Navbar() {
 
           <div className="hidden md:flex items-center gap-4">
             <a
-              href="/auth/login"
+              href="https://app.maestrobase.com.mx/auth/login"
               className="font-body text-sm text-gray-600 hover:text-green transition-colors"
             >
               Iniciar sesión
             </a>
             <a
-              href="/auth/login"
+              href="https://app.maestrobase.com.mx/auth/login"
               className="inline-flex items-center gap-1.5 bg-orange hover:bg-[#e85e2a] text-white font-display font-semibold text-sm px-4 py-2 rounded-full transition-all hover:shadow-md hover:shadow-orange/25"
             >
               Demo gratis
@@ -135,7 +135,7 @@ function Navbar() {
           ))}
           <div className="pt-3">
             <a
-              href="/auth/login"
+              href="https://app.maestrobase.com.mx/auth/login"
               className="block w-full text-center bg-orange text-white font-display font-semibold text-sm py-3.5 rounded-xl"
             >
               Iniciar demo gratuita — 14 días
@@ -197,7 +197,7 @@ function Hero() {
           {/* CTAs */}
           <div className="flex flex-col sm:flex-row gap-3 mb-12">
             <a
-              href="/auth/login"
+              href="https://app.maestrobase.com.mx/auth/login"
               className="inline-flex items-center justify-center gap-2 bg-orange hover:bg-[#e85e2a] text-white font-display font-bold text-base px-7 py-4 rounded-xl transition-all hover:shadow-2xl hover:shadow-orange/30 hover:-translate-y-0.5 active:translate-y-0"
             >
               Iniciar demo gratuita — 14 días
@@ -585,7 +585,7 @@ function PricingSection() {
               </ul>
 
               <a
-                href="/auth/login"
+                href="https://app.maestrobase.com.mx/auth/login"
                 className={`block text-center font-display font-semibold text-sm py-3 rounded-xl transition-all ${
                   highlight
                     ? 'bg-orange hover:bg-[#e85e2a] text-white hover:shadow-lg hover:shadow-orange/30'
@@ -633,7 +633,7 @@ function CTASection() {
           14 días gratis, sin tarjeta de crédito. Configura tu escuela en menos de 10 minutos.
         </p>
         <a
-          href="/auth/login"
+          href="https://app.maestrobase.com.mx/auth/login"
           className="inline-flex items-center gap-2.5 bg-orange hover:bg-[#e85e2a] text-white font-display font-bold text-lg px-8 py-4 rounded-xl transition-all hover:shadow-2xl hover:shadow-orange/30 hover:-translate-y-0.5 active:translate-y-0"
         >
           Iniciar demo gratuita — 14 días
@@ -661,13 +661,13 @@ function Footer() {
 
           <div className="flex items-center gap-6">
             <a
-              href="/auth/login"
+              href="https://app.maestrobase.com.mx/auth/login"
               className="font-body text-sm text-gray-500 hover:text-green transition-colors"
             >
               Iniciar sesión
             </a>
             <a
-              href="/auth/login"
+              href="https://app.maestrobase.com.mx/auth/login"
               className="inline-flex items-center gap-1 font-body text-sm font-semibold text-green hover:text-green-dark transition-colors"
             >
               Demo gratuita
